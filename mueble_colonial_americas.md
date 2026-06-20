@@ -134,4 +134,93 @@ A las partes citadas de la silla se agregan:
 
 ---
 
+---
+
+## Tachones y herrajes como parte de la ornamentación (pp. 32–33)
+
+*(Figuras 55 y 56)*
+
+La figura 54 es un armario; en su parte inferior figuras masculinas parecen sostener los cajones; esas figuras se llaman atlantes y están esculpidas en forma de cono truncado invertido o estípite.
+
+En el románico y gótico las cerraduras y herrajes eran de hierro, grandes, pesados y rectilíneos (figura 57).
+
+En el renacimiento se afinan y poseen bordes curvos (figura 58 A). Este tipo de ornamentación pasa al renacentista jacobino norteamericano (los herrajes serán ilustrados más adelante). En Hispanoamérica los herrajes prolongan características medievales hasta el siglo XVII.
+
+**Barroco:** la ornamentación es al principio ampulosa, pero se va suavizando para terminar en estilizaciones de la naturaleza realizadas con líneas ondulantes y caprichosas.
+
+Motivos característicos son:
+- **Hoja de acanto:** en la Antigüedad ya era usada como motivo ornamental, pero con diseño rígido. En el barroco se estiliza hasta formar volutas (figura 58b).
+- **Cartela:** conjunto decorativo en forma de voluta abierta o medallón ovalado con aletas rizadas o enrolladas (figura 59).
+
+**Cariátide:** adorno arquitectónico griego en forma de figura femenina que aparentemente sirve de apoyo (figura 60).
+
+**Espadolette:** busto femenino que remata un poste de mueble o pata (figura 61). Aclaramos que es un término ebanístico usado por Feduchi y Aronsteca (figura 62). Lingüísticamente en francés y español tiene otro significado.
+
+**Grifo:** bestia mitológica mitad águila mitad león, de forma un tanto grotesca (figura 63).
+
+**Guirnalda:** festón de decoración ondulada (figura 65).
+
+**El** ***hariot*** **es la estilización del poroto**, la rocalla de agua, plantas y flores. La palabra rocalla proviene de las conchillas que decoraban las grutas de los parques en nicadas de las viñas. El motivo de la *concha* es uno de los más representativos del rococó (figuras 64, 65, 66, 67 y 68).
+
+---
+
+### Neoclásico (pp. 34–37)
+
+Durante el directorio francés se suspende la flor de lis y se agregan símbolos revolucionarios como el ojo de la razón, el gorro frigio, la pica, la lanza, los manos entrelazadas, que también se usan en Inglaterra.
+
+Durante el imperio francés, las campañas napoleónicas traen aparejada la presencia de motivos grecorromanos y egipcios que se reproducen en pesados bronces y en patas de sillones y mesas, animales fantásticos, columnas, arcos de triunfo, la N° (inicial) y la abeja (símbolo de trabajo) la corona de laurel y el águila imperial son características.
+
+En Inglaterra, la Regencia adopta algunos de estos motivos: la pata quebrada egipcia con garra de bronce; remates de cabeza de pato en los posabrazos; soportes de bronce, remates de cabeza de pato en los posabrazos serpenteados como soportes de sofás. Obviamente no emplea ni la "N" ni la abeja.
+
+**En América del Norte**, el neoclásico inicial sigue la ornamentación de Hepplewhite y Sheraton ingleses, muy sobria: molduras rectilíneas, rosetas y acanto de bronce, tallas de estrias. El estilo federal absorbe el adorno Imperio francés, muy sobria.
+
+En la figura 71, perilladas, anteras y lazos aplicados al marco de los espejos se adicionan también al mueble. Hispanoamérica no agrega novedades que mencionaremos más tarde. Hispanoamérica importa la ornamentación del federal temprano de orientación directorio francés, muy sobria.
+
+**Las estrias** (figura 72) son tallas neoclásicas tempranas.
+
+**La palmeta** es la estilización de la superficie interna de la palma en forma de guía. Se usó también en el renacimiento (figura 74).
+
+Los pináculo son adornos terminales en forma de vasos con predominio de la dirección vertical que acentúan las puntas estructurales. Se usaban en los coronamientos de los templos griegos (figura 75).
+
+El caduceo es la reproducción de la vara de Mercurio, con dos serpientes entrelazadas en la parte superior (figura 76).
+
+La figura 77 presenta motivos fantásticos y naturalistas del imperio.
+
+En los sofás regency (figura 79) se aprecian los adornos Imperio recargados en los que el estilo a los cuales imitará el federal americano. Estos se ven en la figura 80; 3 herrajes neoclásicos se aprecian en la figura 81.
+
+---
+
+### Romántico (pp. 38–41)
+
+**Romántico:** copia la ornamentación de estilos anteriores: gótico, renacentista, rococó y neoclásico (sobre todo el Imperio). Como nos hemos referido detalladamente a los tres últimos estilos, daremos las líneas generales del mueble gótico y su ornamentación.
+
+El mueble gótico, que inspira el neogótico romántico, es de estructura prismática con acento en la verticalidad, armado sobre líneas rectas y simples, adquiere carácter por su ornamentación de base arquitectónica y escultórica.
+
+Consiste por un lado en la reproducción de arquerías de arco apuntado, pilastras, molduras, mesas, tréboles, cuatrifolios, paneles, agujas, flechas. Característico es el gablete: triángulo formado por dos líneas oblicuas en ángulo agudo como pendientes de un tejado con aristas laterales decoradas con frontones. Por otro lado, el trabajo de talla abarca motivos estilizados de la flora y la rama o decoración geométrica de lazos llamados lacerías. La talla más característica es la de pergamino: consiste en delgadas columnillas muy juntas entre sí que asemejan a un paño plegado.
+
+El neogótico se da en el victoriano inglés, segundo Imperio francés, isabelino español, muy poco en Austria y alrededor de 1842 en Estados Unidos, en el copete, **pilastras y lacerías**. El gablete se ve en detalle en la figura 82a.
+
+A pesar de su sujeción a estilos anteriores, el romántico tiene dos características propias en la ornamentación del mueble: el almohadillado de la tapicería y los herrajes en óvalo, forma que se da también en otras manifestaciones de la época como los marcos de cuadros y miniaturas, medallas, joyas, tableros de mesa y pantallas para chimenea.
+
+El almohadillado o capitoné es un tapizado donde los botones están cosidos a través del relleno de modo que tiran hacia abajo en el punto donde están adheridos. Con los pliegues que forman producen dibujos (figura 83); en la figura 84 se puede apreciar la forma variada de los herrajes románticos.
+
+*s.b.*
+
+---
+
+## El tamaño de los muebles (pp. 40–41)
+
+Al describir los sucesivos estilos nos hemos detenido especialmente en los materiales, formas y ornamentación pero no en la escala de los modelos. Sin embargo eso es importante. (El museo imaginario que es el libro impreso magnifica lo pequeño pero reduce lo grandioso.) En el caso de los muebles ilustrados el tema de los tamaños resulta capital puesto que existe, sobre todo en las variedades rioplatenses, una gran oscilación que es la que determina el carácter o estilo del conjunto.
+
+Dentro de los tamaños encontramos:
+
+- **Gigantescos:** para templos y órdenes religiosas.
+- **Grandes:** para los palacios y las raras casas de hidalgo.
+- **Medianos:** para usos familiares, ya a partir del siglo XVIII, en tipos más diversos.
+- **Bajos:** para uso femenino. Abundantes en el siglo XVIII.
+- **En miniatura:** para nichos y oratorios.
+- **Pequeños,** como de juguete: cuando son finos, modelos de ebanistería.
+
+Al hacer reconstrucciones de época es esencial analizar el uso que se dio originariamente a la pieza, pues de eso depende que resulte una recreación fiel. Es común en las evocaciones trasladar muebles de sacristía a comedores y esto configura un falseamiento. En efecto, los grandes repositorios de puertas magníficamente labradas y las cajoneras de pared entraron no se hacían para uso civil sino religioso. Un mueble de varios cuerpos utilizado como estantería de comedor responde casi siempre a una adaptación posterior. (En los siglos XVI, XVII y hasta XVIII todo se guardaba bajo llave en cajas cerradas.) No
+
 *[Continúa — agregar más páginas a medida que se compartan]*
