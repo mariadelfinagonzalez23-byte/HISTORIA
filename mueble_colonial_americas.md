@@ -136,6 +136,42 @@ A las partes citadas de la silla se agregan:
 
 ---
 
+## Las patas torneadas (pp. 26–29)
+
+*(Figuras 25 y 26)*
+
+**En Inglaterra** se mantienen al principio del barroco diversos torneados y es una novedad el de copa invertida (figura 25 y 26). Su originalidad son las terminaciones inferiores en voluta, de la francesa; la holandesa (con laco) y la de garra y bola característica de Chippendale (figuras 27, 28 y 29).
+
+Luego se adopta el cabriolé que nunca llega a ser tan delgada como la francesa.
+
+**En Portugal** se copian los estilos ingleses Reina Ana y Chippendale.
+
+**España** se copia el barroco francés para el mueble de corte y sigue el renacentista para el popular.
+
+**En América** se reciben estas características fundamentales que se reproducen con algunas diferencias (figuras 30 y 31).
+
+### Neoclásico: patas (pp. 26–27)
+
+**Neoclásico:** cuando el futuro Carlos III de España (Borbón) era rey de Nápoles ordenó la excavación de las ruinas de Pompeya y Herculano, ciudades romanas que fueron sepultadas por capas de barro, ceniza y lava, provenientes de una erupción del Vesubio acaecida en el año 79 d.C.; las piezas artísticas que salen a la luz provocan una revolución. La serpentante línea barroca va a ser sustituida por la aplacible línea recta que orienta las estructuras. La pata cabriolé, por un estípite o cono truncado alto, delgado, esbelto, generalmente coronado por un dado en la parte superior y rematado con un taco en la inferior. Muchas veces lleva estas patas coronadas con un taco en Francia, dentro del mismo estilo tomará ligeras curvaturas (figuras 33A y B) como la del mismo estilo griego en el neoclásico medio; evolucionará luego hacia otras fantasías de la Antigüedad al final del período (durante el Imperio napoleónico): prismas rematados con la esfera del mundo, floreros yuxtapuestos, cabriolé muy gruesa apoyada en garra, motivos egipcios, grecorromanos, cabriolé muy gruesa apoyada en garra, motivos egipcios grecorromanos. Se adornan con bronces cincelados con motivos de estilo romano, egipcio, hojas de acanto, páteras, etcétera.
+
+**En Inglaterra** los hermanos Adam emplean el mismo estípite corto, alto, fino o grueso y patas curvas entrelazadas como en la silla currul romana. Hepplewhite y Sheraton adoptan el mismo estípite que vemos en el primer período del directorio francés. El neoclásico tardío es una reproducción del directorio francés o neoclásico medio; recibe el nombre de Regency (figuras 35, 36 y 37).
+
+*(Figuras 32, 33A, 33B, 34A, 34B, 34B y 34C)*
+
+**En Norteamérica** se reproduce idéntica la pata estípite de Hepplewhite. Pero el estilo neoclásico más importante es el tardío, basado en el directorio e Imperio francés; se llama estilo federal o Duncan Phyfe (figuras 38, 39 y 40).
+
+**En Hispanoamérica** se da el estilo federal de Phyfe en su reproducción atenuada del directorio francés. Tiene mucha persistencia en Méjico, pues se mantiene desde principios del XIX hasta principios del XX (figuras 41, 42 y 43).
+
+### Romántico: patas (pp. 28–29)
+
+*(Figuras 41, 42 y 43)*
+
+**Romántico:** se copian estilos anteriores entremezclándolos o alterando elementos en algunos casos. Los estilos más reproducidos son el gótico, el renacentista, el rococó y el neoclásico francés, sobre todo el Imperio y rococó. Inglaterra tiene el liderazgo. Allí el romántico se denomina victoriano. En España se llama isabelino, y llega a producciones insólitas (figura 44). Tanto en Norteamérica como en Hispanoamérica se adoptan el victoriano y el isabelino rococó respectivamente y con pata cabriolé orta (figuras 45, 46, 47 y 48). Se lo puede denominar también **neobarroco**.
+
+*(Figura 44: Pata de taide; Figura 45: Pata de pedestal; Figura 46: Pata normal; Figura 47: Pata corta; Figura 48: Pata corta)*
+
+---
+
 ## Tachones y herrajes como parte de la ornamentación (pp. 32–33)
 
 *(Figuras 55 y 56)*
