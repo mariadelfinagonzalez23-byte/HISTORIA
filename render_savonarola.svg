@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 620" width="600" height="620">
+
+  <defs>
+    <!-- Madera oscura (nogal) -->
+    <linearGradient id="maderaOscura" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#3B1F0A"/>
+      <stop offset="18%"  stop-color="#5C3317"/>
+      <stop offset="35%"  stop-color="#7A4520"/>
+      <stop offset="50%"  stop-color="#6B3B18"/>
+      <stop offset="68%"  stop-color="#7A4520"/>
+      <stop offset="85%"  stop-color="#5C3317"/>
+      <stop offset="100%" stop-color="#3B1F0A"/>
+    </linearGradient>
+    <!-- Madera lateral (cara lateral del arcón) -->
+    <linearGradient id="maderaLateral" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#2A1508"/>
+      <stop offset="100%" stop-color="#3B1F0A"/>
+    </linearGradient>
+    <!-- Cara superior arcón -->
+    <linearGradient id="maderaSuperior" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"   stop-color="#8B5A2B"/>
+      <stop offset="100%" stop-color="#5C3317"/>
+    </linearGradient>
+    <!-- Patas -->
+    <linearGradient id="pataGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#2A1508"/>
+      <stop offset="40%"  stop-color="#6B3B18"/>
+      <stop offset="100%" stop-color="#3B1F0A"/>
+    </linearGradient>
+    <!-- Bandas/cintas -->
+    <linearGradient id="bandaGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#8B5A2B"/>
+      <stop offset="50%"  stop-color="#C4882E"/>
+      <stop offset="100%" stop-color="#7A4520"/>
+    </linearGradient>
+    <!-- Sombra suave -->
+    <filter id="sombra">
+      <feDropShadow dx="4" dy="6" stdDeviation="6" flood-color="#00000055"/>
+    </filter>
+    <filter id="sombraLeve">
+      <feDropShadow dx="2" dy="3" stdDeviation="3" flood-color="#00000033"/>
+    </filter>
+  </defs>
+
+  <!-- Fondo papel -->
+  <rect width="600" height="620" fill="#F5F0E8"/>
+
+  <!-- Título -->
+  <text x="300" y="28" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#3B1F0A" font-weight="bold">ARCÓN SAVONAROLA — Renacimiento italiano S. XV–XVI</text>
+  <text x="300" y="46" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#888" font-style="italic">madera de nogal tallada · patas en X (curul) · medallón central</text>
+
+  <g filter="url(#sombra)">
+
+  <!-- ============================================ -->
+  <!-- PATAS EN X — IZQUIERDA                       -->
+  <!-- ============================================ -->
+  <!-- arco frontal izq (va de adelante-arriba a atrás-abajo) -->
+  <path d="M 112 340 Q 118 390 108 450" stroke="#2A1508" stroke-width="16" fill="none" stroke-linecap="round"/>
+  <path d="M 112 340 Q 118 390 108 450" stroke="url(#pataGrad)" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <!-- arco trasero izq (va de atrás-arriba a adelante-abajo) -->
+  <path d="M 112 340 Q 106 390 130 450" stroke="#2A1508" stroke-width="16" fill="none" stroke-linecap="round"/>
+  <path d="M 112 340 Q 106 390 130 450" stroke="url(#pataGrad)" stroke-width="12" fill="none" stroke-linecap="round"/>
+
+  <!-- BASE / ZÓCALO izquierdo -->
+  <rect x="82" y="448" width="70" height="16" rx="3" fill="#3B1F0A" stroke="#2A1508" stroke-width="1.5"/>
+  <rect x="85" y="451" width="64" height="10" rx="2" fill="#5C3317"/>
+  <!-- moldura ondulada base izq -->
+  <path d="M 84 448 Q 90 442 96 448 Q 102 442 108 448 Q 114 442 120 448 Q 126 442 132 448 Q 138 442 144 448 Q 150 442 152 448" stroke="#7A4520" stroke-width="1.5" fill="none"/>
+
+  <!-- nudo central X izq -->
+  <circle cx="112" cy="390" r="10" fill="#2A1508" stroke="#7A4520" stroke-width="1.5"/>
+  <circle cx="112" cy="390" r="6"  fill="#5C3317"/>
+  <circle cx="112" cy="390" r="3"  fill="#8B5A2B"/>
+
+  <!-- ============================================ -->
+  <!-- PATAS EN X — DERECHA                         -->
+  <!-- ============================================ -->
+  <path d="M 488 340 Q 482 390 472 450" stroke="#2A1508" stroke-width="16" fill="none" stroke-linecap="round"/>
+  <path d="M 488 340 Q 482 390 472 450" stroke="url(#pataGrad)" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <path d="M 488 340 Q 494 390 510 450" stroke="#2A1508" stroke-width="16" fill="none" stroke-linecap="round"/>
+  <path d="M 488 340 Q 494 390 510 450" stroke="url(#pataGrad)" stroke-width="12" fill="none" stroke-linecap="round"/>
+
+  <!-- BASE derecha -->
+  <rect x="448" y="448" width="70" height="16" rx="3" fill="#3B1F0A" stroke="#2A1508" stroke-width="1.5"/>
+  <rect x="451" y="451" width="64" height="10" rx="2" fill="#5C3317"/>
+  <path d="M 450 448 Q 456 442 462 448 Q 468 442 474 448 Q 480 442 486 448 Q 492 442 498 448 Q 504 442 510 448 Q 516 442 522 448 Q 528 442 530 448" stroke="#7A4520" stroke-width="1.5" fill="none"/>
+
+  <!-- nudo central X der -->
+  <circle cx="488" cy="390" r="10" fill="#2A1508" stroke="#7A4520" stroke-width="1.5"/>
+  <circle cx="488" cy="390" r="6"  fill="#5C3317"/>
+  <circle cx="488" cy="390" r="3"  fill="#8B5A2B"/>
+
+  <!-- ============================================ -->
+  <!-- CUERPO PRINCIPAL DEL ARCÓN                   -->
+  <!-- ============================================ -->
+
+  <!-- Cara lateral derecha (perspectiva) -->
+  <polygon points="490,165 540,185 540,345 490,340" fill="url(#maderaLateral)" stroke="#2A1508" stroke-width="1.5"/>
+  <!-- vetas madera cara lateral -->
+  <line x1="495" y1="168" x2="495" y2="342" stroke="#2A1508" stroke-width="0.6" opacity="0.5"/>
+  <line x1="505" y1="170" x2="505" y2="343" stroke="#3B1F0A" stroke-width="0.6" opacity="0.4"/>
+  <line x1="515" y1="173" x2="515" y2="344" stroke="#2A1508" stroke-width="0.6" opacity="0.5"/>
+  <line x1="525" y1="177" x2="525" y2="345" stroke="#3B1F0A" stroke-width="0.6" opacity="0.4"/>
+  <line x1="535" y1="181" x2="535" y2="344" stroke="#2A1508" stroke-width="0.6" opacity="0.5"/>
+
+  <!-- Cara frontal principal -->
+  <rect x="110" y="170" width="380" height="170" fill="url(#maderaOscura)" stroke="#2A1508" stroke-width="2"/>
+
+  <!-- VETAS DE MADERA CON RELIEVE (las rayas que dibujaste) -->
+  <line x1="110" y1="198" x2="490" y2="198" stroke="#2A1508" stroke-width="2.5" opacity="0.7"/>
+  <line x1="110" y1="200" x2="490" y2="200" stroke="#8B5A2B" stroke-width="1"   opacity="0.4"/>
+  <line x1="110" y1="220" x2="490" y2="220" stroke="#2A1508" stroke-width="2.5" opacity="0.7"/>
+  <line x1="110" y1="222" x2="490" y2="222" stroke="#8B5A2B" stroke-width="1"   opacity="0.4"/>
+  <line x1="110" y1="242" x2="490" y2="242" stroke="#2A1508" stroke-width="2.5" opacity="0.7"/>
+  <line x1="110" y1="244" x2="490" y2="244" stroke="#8B5A2B" stroke-width="1"   opacity="0.4"/>
+  <line x1="110" y1="264" x2="490" y2="264" stroke="#2A1508" stroke-width="2.5" opacity="0.7"/>
+  <line x1="110" y1="266" x2="490" y2="266" stroke="#8B5A2B" stroke-width="1"   opacity="0.4"/>
+  <line x1="110" y1="286" x2="490" y2="286" stroke="#2A1508" stroke-width="2.5" opacity="0.7"/>
+  <line x1="110" y1="288" x2="490" y2="288" stroke="#8B5A2B" stroke-width="1"   opacity="0.4"/>
+  <line x1="110" y1="308" x2="490" y2="308" stroke="#2A1508" stroke-width="2.5" opacity="0.7"/>
+  <line x1="110" y1="310" x2="490" y2="310" stroke="#8B5A2B" stroke-width="1"   opacity="0.4"/>
+  <line x1="110" y1="328" x2="490" y2="328" stroke="#2A1508" stroke-width="2.5" opacity="0.7"/>
+  <line x1="110" y1="330" x2="490" y2="330" stroke="#8B5A2B" stroke-width="1"   opacity="0.4"/>
+
+  <!-- Sombra interior cara frontal -->
+  <rect x="110" y="170" width="12" height="170" fill="#00000030"/>
+  <rect x="478" y="170" width="12" height="170" fill="#00000025"/>
+
+  <!-- ARGOLLAS LATERALES (los circulitos que dibujaste) -->
+  <!-- argolla izquierda -->
+  <circle cx="136" cy="255" r="14" fill="#4A2810" stroke="#8B6914" stroke-width="2"/>
+  <circle cx="136" cy="255" r="9"  fill="none"    stroke="#C4A030" stroke-width="2"/>
+  <circle cx="136" cy="255" r="4"  fill="#8B6914"/>
+  <!-- argolla derecha -->
+  <circle cx="464" cy="255" r="14" fill="#4A2810" stroke="#8B6914" stroke-width="2"/>
+  <circle cx="464" cy="255" r="9"  fill="none"    stroke="#C4A030" stroke-width="2"/>
+  <circle cx="464" cy="255" r="4"  fill="#8B6914"/>
+
+  <!-- ============================================ -->
+  <!-- PARTE SUPERIOR — BANDAS CRUZADAS             -->
+  <!-- ============================================ -->
+
+  <!-- Fondo tapa superior (madera más clara) -->
+  <rect x="110" y="100" width="380" height="72" fill="#7A4520" stroke="#2A1508" stroke-width="2"/>
+  <!-- vetas tapa -->
+  <line x1="110" y1="115" x2="490" y2="115" stroke="#5C3317" stroke-width="1.5" opacity="0.5"/>
+  <line x1="110" y1="130" x2="490" y2="130" stroke="#5C3317" stroke-width="1.5" opacity="0.5"/>
+  <line x1="110" y1="145" x2="490" y2="145" stroke="#5C3317" stroke-width="1.5" opacity="0.5"/>
+  <line x1="110" y1="158" x2="490" y2="158" stroke="#5C3317" stroke-width="1.5" opacity="0.5"/>
+
+  <!-- BANDAS DIAGONALES (las cintas cruzadas que dibujaste) -->
+  <!-- banda diagonal izq→der (de arriba-izq a abajo-der) -->
+  <path d="M 150 100 L 490 168" stroke="#2A1508" stroke-width="14" stroke-linecap="round"/>
+  <path d="M 150 100 L 490 168" stroke="url(#bandaGrad)" stroke-width="10" stroke-linecap="round"/>
+  <path d="M 150 100 L 490 168" stroke="#C4882E" stroke-width="2" stroke-linecap="round" opacity="0.4"/>
+
+  <!-- banda diagonal der→izq (de arriba-der a abajo-izq) -->
+  <path d="M 450 100 L 110 168" stroke="#2A1508" stroke-width="14" stroke-linecap="round"/>
+  <path d="M 450 100 L 110 168" stroke="url(#bandaGrad)" stroke-width="10" stroke-linecap="round"/>
+  <path d="M 450 100 L 110 168" stroke="#C4882E" stroke-width="2" stroke-linecap="round" opacity="0.4"/>
+
+  <!-- MEDALLÓN CENTRAL TALLADO (el círculo del medio) -->
+  <circle cx="300" cy="136" r="34" fill="#3B1F0A" stroke="#2A1508" stroke-width="3"/>
+  <circle cx="300" cy="136" r="28" fill="#5C3317" stroke="#8B6914" stroke-width="1.5"/>
+  <circle cx="300" cy="136" r="20" fill="#4A2810" stroke="#C4A030" stroke-width="1.5"/>
+  <!-- motivo floral/corona tallado interior -->
+  <circle cx="300" cy="136" r="10" fill="#3B1F0A" stroke="#8B6914" stroke-width="1"/>
+  <!-- pétalos tallados -->
+  <ellipse cx="300" cy="118" rx="5" ry="8" fill="#5C3317" stroke="#8B6914" stroke-width="0.8" transform="rotate(0,300,136)"/>
+  <ellipse cx="300" cy="118" rx="5" ry="8" fill="#5C3317" stroke="#8B6914" stroke-width="0.8" transform="rotate(45,300,136)"/>
+  <ellipse cx="300" cy="118" rx="5" ry="8" fill="#5C3317" stroke="#8B6914" stroke-width="0.8" transform="rotate(90,300,136)"/>
+  <ellipse cx="300" cy="118" rx="5" ry="8" fill="#5C3317" stroke="#8B6914" stroke-width="0.8" transform="rotate(135,300,136)"/>
+  <ellipse cx="300" cy="118" rx="5" ry="8" fill="#5C3317" stroke="#8B6914" stroke-width="0.8" transform="rotate(180,300,136)"/>
+  <ellipse cx="300" cy="118" rx="5" ry="8" fill="#5C3317" stroke="#8B6914" stroke-width="0.8" transform="rotate(225,300,136)"/>
+  <ellipse cx="300" cy="118" rx="5" ry="8" fill="#5C3317" stroke="#8B6914" stroke-width="0.8" transform="rotate(270,300,136)"/>
+  <ellipse cx="300" cy="118" rx="5" ry="8" fill="#5C3317" stroke="#8B6914" stroke-width="0.8" transform="rotate(315,300,136)"/>
+  <!-- punto central -->
+  <circle cx="300" cy="136" r="4" fill="#C4A030"/>
+
+  <!-- ============================================ -->
+  <!-- MOLDURA ONDULADA SUPERIOR                    -->
+  <!-- (la cornisa con ondas que dibujaste arriba)  -->
+  <!-- ============================================ -->
+  <rect x="108" y="85" width="384" height="18" fill="#5C3317" stroke="#2A1508" stroke-width="1.5"/>
+  <!-- ondas / gallones -->
+  <path d="M 110 85 Q 118 74 126 85 Q 134 74 142 85 Q 150 74 158 85 Q 166 74 174 85 Q 182 74 190 85 Q 198 74 206 85 Q 214 74 222 85 Q 230 74 238 85 Q 246 74 254 85 Q 262 74 270 85 Q 278 74 286 85 Q 294 74 302 85 Q 310 74 318 85 Q 326 74 334 85 Q 342 74 350 85 Q 358 74 366 85 Q 374 74 382 85 Q 390 74 398 85 Q 406 74 414 85 Q 422 74 430 85 Q 438 74 446 85 Q 454 74 462 85 Q 470 74 478 85 Q 486 74 490 85"
+        fill="#6B3B18" stroke="#2A1508" stroke-width="1.5"/>
+
+  <!-- cara superior del arcón (perspectiva) -->
+  <polygon points="110,100 490,100 540,120 140,120" fill="url(#maderaSuperior)" stroke="#2A1508" stroke-width="1.5"/>
+  <!-- vetas cara superior -->
+  <line x1="130" y1="102" x2="178" y2="119" stroke="#5C3317" stroke-width="1" opacity="0.5"/>
+  <line x1="200" y1="100" x2="248" y2="120" stroke="#5C3317" stroke-width="1" opacity="0.5"/>
+  <line x1="300" y1="100" x2="348" y2="120" stroke="#5C3317" stroke-width="1" opacity="0.5"/>
+  <line x1="400" y1="100" x2="448" y2="120" stroke="#5C3317" stroke-width="1" opacity="0.5"/>
+
+  <!-- ============================================ -->
+  <!-- MOLDURA BASE DEL ARCÓN                       -->
+  <!-- ============================================ -->
+  <rect x="108" y="338" width="384" height="12" fill="#3B1F0A" stroke="#2A1508" stroke-width="1.5"/>
+  <rect x="108" y="348" width="384" height="6"  fill="#5C3317"/>
+
+  </g>
+
+  <!-- SOMBRA EN EL SUELO -->
+  <ellipse cx="300" cy="472" rx="195" ry="12" fill="#00000022"/>
+
+  <!-- ============================================ -->
+  <!-- LÍNEA DE SUELO                               -->
+  <!-- ============================================ -->
+  <line x1="60" y1="467" x2="545" y2="467" stroke="#bbb" stroke-width="1" stroke-dasharray="6,4"/>
+
+  <!-- ============================================ -->
+  <!-- ETIQUETAS                                    -->
+  <!-- ============================================ -->
+  <line x1="555" y1="82"  x2="492" y2="92"  stroke="#aaa" stroke-width="0.8"/>
+  <text x="558" y="86"  font-family="Georgia, serif" font-size="9" fill="#666" font-style="italic">cornisa con gallones</text>
+
+  <line x1="555" y1="136" x2="335" y2="136" stroke="#aaa" stroke-width="0.8"/>
+  <text x="558" y="140" font-family="Georgia, serif" font-size="9" fill="#666" font-style="italic">medallón tallado en madera</text>
+
+  <line x1="555" y1="108" x2="492" y2="108" stroke="#aaa" stroke-width="0.8"/>
+  <text x="558" y="112" font-family="Georgia, serif" font-size="9" fill="#666" font-style="italic">bandas cruzadas</text>
+
+  <line x1="555" y1="255" x2="480" y2="255" stroke="#aaa" stroke-width="0.8"/>
+  <text x="558" y="259" font-family="Georgia, serif" font-size="9" fill="#666" font-style="italic">argolla de hierro</text>
+
+  <line x1="555" y1="230" x2="492" y2="210" stroke="#aaa" stroke-width="0.8"/>
+  <text x="558" y="234" font-family="Georgia, serif" font-size="9" fill="#666" font-style="italic">madera con relieve rayado</text>
+  <text x="558" y="246" font-family="Georgia, serif" font-size="9" fill="#666" font-style="italic">(vetas en relieve)</text>
+
+  <line x1="555" y1="395" x2="500" y2="390" stroke="#aaa" stroke-width="0.8"/>
+  <text x="558" y="399" font-family="Georgia, serif" font-size="9" fill="#666" font-style="italic">patas en X (curul)</text>
+
+  <line x1="555" y1="455" x2="520" y2="455" stroke="#aaa" stroke-width="0.8"/>
+  <text x="558" y="459" font-family="Georgia, serif" font-size="9" fill="#666" font-style="italic">base moldurada</text>
+
+  <!-- FIRMA Y NOTA -->
+  <text x="300" y="505" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#7A4520" font-weight="bold">Arcón Savonarola · Renacimiento italiano · S. XV–XVI · nogal tallado</text>
+  <text x="300" y="520" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#aaa" font-style="italic">render digital basado en croquis original · M.D. González · 2025</text>
+
+</svg>
