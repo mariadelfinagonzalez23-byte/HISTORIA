@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 520" width="700" height="520">
+
+  <!-- Fondo papel -->
+  <rect width="700" height="520" fill="#F9F6EF"/>
+
+  <!-- Filtro "trazo a mano" — leve distorsión -->
+  <filter id="lapiz">
+    <feTurbulence type="fractalNoise" baseFrequency="0.04" numOctaves="3" result="noise"/>
+    <feDisplacementMap in="SourceGraphic" in2="noise" scale="1.2" xChannelSelector="R" yChannelSelector="G"/>
+  </filter>
+
+  <g filter="url(#lapiz)" stroke="#2B2B2B" fill="none" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- ==================== -->
+    <!-- TÍTULO               -->
+    <!-- ==================== -->
+    <text x="200" y="30" font-family="'Segoe UI', sans-serif" font-size="14" fill="#3a3a3a" stroke="none" font-style="italic">Aparador Memphis — boceto</text>
+    <text x="200" y="47" font-family="'Segoe UI', sans-serif" font-size="10" fill="#888" stroke="none">Historia del Arte · Diseño de Interiores</text>
+
+    <!-- ==================== -->
+    <!-- VISTA FRONTAL        -->
+    <!-- ==================== -->
+    <text x="120" y="70" font-family="'Segoe UI', sans-serif" font-size="10" fill="#666" stroke="none" font-style="italic">vista frontal</text>
+
+    <!-- Cubierta superior -->
+    <line x1="60"  y1="95"  x2="342" y2="95"  stroke-width="2.2"/>
+    <line x1="60"  y1="95"  x2="60"  y2="108" stroke-width="1.8"/>
+    <line x1="342" y1="95"  x2="342" y2="108" stroke-width="1.8"/>
+    <line x1="58"  y1="108" x2="344" y2="108" stroke-width="1.8"/>
+
+    <!-- Rayas decorativas cubierta (trazo lápiz) -->
+    <line x1="68"  y1="98"  x2="68"  y2="106" stroke-width="1.2" stroke="#555"/>
+    <line x1="80"  y1="98"  x2="80"  y2="106" stroke-width="1.2" stroke="#555"/>
+    <line x1="92"  y1="98"  x2="92"  y2="106" stroke-width="1.2" stroke="#555"/>
+    <line x1="104" y1="98"  x2="104" y2="106" stroke-width="1.2" stroke="#555"/>
+    <line x1="116" y1="98"  x2="116" y2="106" stroke-width="1.2" stroke="#555"/>
+    <line x1="128" y1="98"  x2="128" y2="106" stroke-width="1.2" stroke="#555"/>
+    <line x1="140" y1="98"  x2="140" y2="106" stroke-width="1.2" stroke="#555"/>
+    <line x1="152" y1="98"  x2="152" y2="106" stroke-width="1.2" stroke="#555"/>
+    <line x1="164" y1="98"  x2="164" y2="106" stroke-width="1.2" stroke="#555"/>
+    <line x1="176" y1="98"  x2="176" y2="106" stroke-width="1.2" stroke="#555"/>
+    <line x1="188" y1="98"  x2="188" y2="106" stroke-width="1.2" stroke="#555"/>
+    <line x1="200" y1="98"  x2="200" y2="106" stroke-width="1.2" stroke="#555"/>
+    <line x1="212" y1="98"  x2="212" y2="106" stroke-width="1.2" stroke="#555"/>
+    <line x1="224" y1="98"  x2="224" y2="106" stroke-width="1.2" stroke="#555"/>
+    <line x1="236" y1="98"  x2="236" y2="106" stroke-width="1.2" stroke="#555"/>
+    <line x1="248" y1="98"  x2="248" y2="106" stroke-width="1.2" stroke="#555"/>
+    <line x1="260" y1="98"  x2="260" y2="106" stroke-width="1.2" stroke="#555"/>
+    <line x1="272" y1="98"  x2="272" y2="106" stroke-width="1.2" stroke="#555"/>
+    <line x1="284" y1="98"  x2="284" y2="106" stroke-width="1.2" stroke="#555"/>
+    <line x1="296" y1="98"  x2="296" y2="106" stroke-width="1.2" stroke="#555"/>
+    <line x1="308" y1="98"  x2="308" y2="106" stroke-width="1.2" stroke="#555"/>
+    <line x1="320" y1="98"  x2="320" y2="106" stroke-width="1.2" stroke="#555"/>
+    <line x1="332" y1="98"  x2="332" y2="106" stroke-width="1.2" stroke="#555"/>
+
+    <!-- Cuerpo principal -->
+    <rect x="60" y="108" width="282" height="290" stroke-width="1.8"/>
+
+    <!-- Paneles laterales (líneas dobles) -->
+    <line x1="80"  y1="108" x2="80"  y2="398" stroke-width="1.2"/>
+    <line x1="322" y1="108" x2="322" y2="398" stroke-width="1.2"/>
+
+    <!-- CAJÓN SUPERIOR -->
+    <line x1="80" y1="168" x2="322" y2="168" stroke-width="1.5"/>
+    <!-- Líneas diagonales cajón (trazo hachura) -->
+    <line x1="88"  y1="112" x2="100" y2="164" stroke-width="0.8" stroke="#777"/>
+    <line x1="102" y1="112" x2="114" y2="164" stroke-width="0.8" stroke="#777"/>
+    <line x1="116" y1="112" x2="128" y2="164" stroke-width="0.8" stroke="#777"/>
+    <line x1="130" y1="112" x2="142" y2="164" stroke-width="0.8" stroke="#777"/>
+    <line x1="144" y1="112" x2="156" y2="164" stroke-width="0.8" stroke="#777"/>
+    <line x1="158" y1="112" x2="170" y2="164" stroke-width="0.8" stroke="#777"/>
+    <line x1="172" y1="112" x2="184" y2="164" stroke-width="0.8" stroke="#777"/>
+    <line x1="186" y1="112" x2="198" y2="164" stroke-width="0.8" stroke="#777"/>
+    <line x1="200" y1="112" x2="212" y2="164" stroke-width="0.8" stroke="#777"/>
+    <line x1="214" y1="112" x2="226" y2="164" stroke-width="0.8" stroke="#777"/>
+    <line x1="228" y1="112" x2="240" y2="164" stroke-width="0.8" stroke="#777"/>
+    <line x1="242" y1="112" x2="254" y2="164" stroke-width="0.8" stroke="#777"/>
+    <line x1="256" y1="112" x2="268" y2="164" stroke-width="0.8" stroke="#777"/>
+    <line x1="270" y1="112" x2="282" y2="164" stroke-width="0.8" stroke="#777"/>
+    <line x1="284" y1="112" x2="296" y2="164" stroke-width="0.8" stroke="#777"/>
+    <line x1="298" y1="112" x2="310" y2="164" stroke-width="0.8" stroke="#777"/>
+    <!-- Tirador cajón superior: círculo -->
+    <circle cx="201" cy="138" r="9" stroke-width="1.5"/>
+    <circle cx="201" cy="138" r="3" stroke-width="1.2"/>
+
+    <!-- PUERTA IZQUIERDA -->
+    <line x1="200" y1="168" x2="200" y2="398" stroke-width="1.5"/>
+    <!-- Puntos hachura puerta izq -->
+    <circle cx="105" cy="195" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="125" cy="195" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="145" cy="195" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="165" cy="195" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="185" cy="195" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="105" cy="215" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="125" cy="215" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="145" cy="215" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="165" cy="215" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="185" cy="215" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="105" cy="235" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="125" cy="235" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="145" cy="235" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="165" cy="235" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="185" cy="235" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="105" cy="255" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="125" cy="255" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="145" cy="255" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="165" cy="255" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="185" cy="255" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="105" cy="275" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="125" cy="275" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="145" cy="275" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="165" cy="275" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="185" cy="275" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="105" cy="295" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="125" cy="295" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="145" cy="295" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="165" cy="295" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="185" cy="295" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="105" cy="315" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="125" cy="315" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="145" cy="315" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="165" cy="315" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="185" cy="315" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="105" cy="335" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="125" cy="335" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="145" cy="335" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="165" cy="335" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="185" cy="335" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="105" cy="355" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="125" cy="355" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="145" cy="355" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="165" cy="355" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="185" cy="355" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="105" cy="375" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="125" cy="375" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="145" cy="375" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="165" cy="375" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <circle cx="185" cy="375" r="2.5" stroke-width="0.8" fill="#aaa"/>
+    <!-- Tirador puerta: triángulo -->
+    <polygon points="130,282 145,262 160,282" stroke-width="1.5"/>
+
+    <!-- 3 CAJONES DERECHOS -->
+    <line x1="200" y1="266" x2="322" y2="266" stroke-width="1.2"/>
+    <line x1="200" y1="332" x2="322" y2="332" stroke-width="1.2"/>
+    <!-- Zigzag cajón 1 -->
+    <polyline points="208,182 220,202 232,182 244,202 256,182 268,202 280,182 292,202 304,182 314,196" stroke-width="1.2" stroke="#555"/>
+    <circle cx="261" cy="226" r="7" stroke-width="1.5"/>
+    <!-- Cuadrícula cajón 2 -->
+    <line x1="200" y1="288" x2="322" y2="288" stroke-width="0.7" stroke="#aaa"/>
+    <line x1="200" y1="310" x2="322" y2="310" stroke-width="0.7" stroke="#aaa"/>
+    <line x1="222" y1="266" x2="222" y2="332" stroke-width="0.7" stroke="#aaa"/>
+    <line x1="244" y1="266" x2="244" y2="332" stroke-width="0.7" stroke="#aaa"/>
+    <line x1="266" y1="266" x2="266" y2="332" stroke-width="0.7" stroke="#aaa"/>
+    <line x1="288" y1="266" x2="288" y2="332" stroke-width="0.7" stroke="#aaa"/>
+    <line x1="310" y1="266" x2="310" y2="332" stroke-width="0.7" stroke="#aaa"/>
+    <circle cx="261" cy="299" r="7" stroke-width="1.5"/>
+    <!-- Cruz cajón 3 -->
+    <line x1="208" y1="348" x2="314" y2="390" stroke-width="1.2" stroke="#777"/>
+    <line x1="314" y1="348" x2="208" y2="390" stroke-width="1.2" stroke="#777"/>
+    <circle cx="261" cy="365" r="7" stroke-width="1.5"/>
+
+    <!-- PATAS -->
+    <rect x="72"  y="398" width="16" height="58" stroke-width="1.5"/>
+    <rect x="96"  y="398" width="16" height="58" stroke-width="1.2" stroke="#aaa"/>
+    <rect x="310" y="398" width="16" height="58" stroke-width="1.5"/>
+    <rect x="286" y="398" width="16" height="58" stroke-width="1.2" stroke="#aaa"/>
+    <!-- sombreado patas -->
+    <line x1="78"  y1="400" x2="78"  y2="454" stroke-width="0.8" stroke="#bbb"/>
+    <line x1="82"  y1="400" x2="82"  y2="454" stroke-width="0.8" stroke="#bbb"/>
+    <line x1="316" y1="400" x2="316" y2="454" stroke-width="0.8" stroke="#bbb"/>
+    <line x1="320" y1="400" x2="320" y2="454" stroke-width="0.8" stroke="#bbb"/>
+
+    <!-- ELEMENTO DECORATIVO encima (columna asimétrica Memphis) -->
+    <rect x="285" y="58" width="20" height="40" stroke-width="1.5"/>
+    <rect x="280" y="46" width="30" height="14" stroke-width="1.5"/>
+    <circle cx="295" cy="38" r="10" stroke-width="1.5"/>
+    <!-- trama columna -->
+    <line x1="287" y1="62" x2="287" y2="96" stroke-width="0.7" stroke="#aaa"/>
+    <line x1="292" y1="62" x2="292" y2="96" stroke-width="0.7" stroke="#aaa"/>
+    <line x1="297" y1="62" x2="297" y2="96" stroke-width="0.7" stroke="#aaa"/>
+    <line x1="302" y1="62" x2="302" y2="96" stroke-width="0.7" stroke="#aaa"/>
+
+    <!-- LÍNEA DE PISO -->
+    <line x1="50" y1="456" x2="360" y2="456" stroke-width="0.9" stroke-dasharray="6,4" stroke="#999"/>
+
+    <!-- ==================== -->
+    <!-- COTAS                -->
+    <!-- ==================== -->
+    <!-- Ancho -->
+    <line x1="60"  y1="472" x2="342" y2="472" stroke-width="1" stroke="#666"/>
+    <line x1="60"  y1="467" x2="60"  y2="477" stroke-width="1" stroke="#666"/>
+    <line x1="342" y1="467" x2="342" y2="477" stroke-width="1" stroke="#666"/>
+    <text x="201" y="488" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="11" fill="#555" stroke="none">1200 mm</text>
+
+    <!-- Altura -->
+    <line x1="28" y1="95"  x2="28" y2="456" stroke-width="1" stroke="#666"/>
+    <line x1="23" y1="95"  x2="33" y2="95"  stroke-width="1" stroke="#666"/>
+    <line x1="23" y1="456" x2="33" y2="456" stroke-width="1" stroke="#666"/>
+    <text x="16" y="282" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="11" fill="#555" stroke="none" transform="rotate(-90,16,282)">900 mm</text>
+
+    <!-- ==================== -->
+    <!-- NOTAS A LÁPIZ        -->
+    <!-- ==================== -->
+    <text x="400" y="85"  font-family="'Segoe UI', sans-serif" font-size="10" fill="#666" stroke="none" font-style="italic">← cajón con hachura</text>
+    <text x="400" y="160" font-family="'Segoe UI', sans-serif" font-size="10" fill="#666" stroke="none" font-style="italic">← rayas en cubierta</text>
+    <text x="400" y="230" font-family="'Segoe UI', sans-serif" font-size="10" fill="#666" stroke="none" font-style="italic">← zigzag (Memphis)</text>
+    <text x="400" y="300" font-family="'Segoe UI', sans-serif" font-size="10" fill="#666" stroke="none" font-style="italic">← cuadrícula</text>
+    <text x="400" y="365" font-family="'Segoe UI', sans-serif" font-size="10" fill="#666" stroke="none" font-style="italic">← patrón cruzado</text>
+    <text x="400" y="420" font-family="'Segoe UI', sans-serif" font-size="10" fill="#666" stroke="none" font-style="italic">← patas cilíndricas</text>
+
+    <!-- Líneas de referencia -->
+    <line x1="398" y1="83"  x2="342" y2="138" stroke-width="0.7" stroke="#bbb" stroke-dasharray="3,3"/>
+    <line x1="398" y1="158" x2="342" y2="101" stroke-width="0.7" stroke="#bbb" stroke-dasharray="3,3"/>
+    <line x1="398" y1="228" x2="322" y2="210" stroke-width="0.7" stroke="#bbb" stroke-dasharray="3,3"/>
+    <line x1="398" y1="298" x2="322" y2="295" stroke-width="0.7" stroke="#bbb" stroke-dasharray="3,3"/>
+    <line x1="398" y1="363" x2="322" y2="360" stroke-width="0.7" stroke="#bbb" stroke-dasharray="3,3"/>
+    <line x1="398" y1="418" x2="340" y2="420" stroke-width="0.7" stroke="#bbb" stroke-dasharray="3,3"/>
+
+    <!-- ==================== -->
+    <!-- DETALLE TIRADOR      -->
+    <!-- ==================== -->
+    <text x="530" y="200" font-family="'Segoe UI', sans-serif" font-size="10" fill="#666" stroke="none" font-style="italic">detalle tiradores</text>
+    <!-- círculo -->
+    <circle cx="545" cy="230" r="14" stroke-width="1.5"/>
+    <circle cx="545" cy="230" r="5"  stroke-width="1.2"/>
+    <text x="565" y="234" font-family="'Segoe UI', sans-serif" font-size="9" fill="#888" stroke="none">circular</text>
+    <!-- triángulo -->
+    <polygon points="545,268 558,290 532,290" stroke-width="1.5"/>
+    <text x="565" y="283" font-family="'Segoe UI', sans-serif" font-size="9" fill="#888" stroke="none">triangular</text>
+    <!-- Cruz -->
+    <circle cx="545" cy="320" r="14" stroke-width="1.5"/>
+    <line x1="531" y1="320" x2="559" y2="320" stroke-width="1.5"/>
+    <line x1="545" y1="306" x2="545" y2="334" stroke-width="1.5"/>
+    <text x="565" y="324" font-family="'Segoe UI', sans-serif" font-size="9" fill="#888" stroke="none">en cruz</text>
+
+    <!-- ==================== -->
+    <!-- FIRMA                -->
+    <!-- ==================== -->
+    <text x="670" y="510" text-anchor="end" font-family="'Segoe UI', sans-serif" font-size="10" fill="#bbb" stroke="none" font-style="italic">M.D. González · 2025</text>
+
+  </g>
+
+</svg>
