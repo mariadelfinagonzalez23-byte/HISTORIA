@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 500" width="680" height="500">
+
+  <rect width="680" height="500" fill="#FEFDF8"/>
+
+  <!-- TÍTULO -->
+  <text x="340" y="28" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#222">SILLÓN NEOCLÁSICO — Louis XVI (Francia, 1760–1789)</text>
+  <text x="340" y="46" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#777" font-style="italic">ejemplo de referencia para copiar a mano</text>
+
+  <g stroke="#1a1a1a" fill="none" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- ======================================= -->
+    <!-- VISTA FRONTAL                           -->
+    <!-- ======================================= -->
+    <text x="170" y="70" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555" font-style="italic" stroke="none">— vista frontal —</text>
+
+    <!-- PATA DELANTERA IZQUIERDA (cónica, estriada) -->
+    <!-- fuste cónico -->
+    <line x1="90"  y1="360" x2="84"  y2="440" stroke-width="1.8"/>
+    <line x1="108" y1="360" x2="102" y2="440" stroke-width="1.8"/>
+    <!-- estrías verticales -->
+    <line x1="93"  y1="362" x2="87"  y2="437" stroke-width="0.6" stroke="#888"/>
+    <line x1="96"  y1="362" x2="90"  y2="437" stroke-width="0.6" stroke="#888"/>
+    <line x1="99"  y1="362" x2="93"  y2="437" stroke-width="0.6" stroke="#888"/>
+    <line x1="102" y1="362" x2="96"  y2="437" stroke-width="0.6" stroke="#888"/>
+    <line x1="105" y1="362" x2="99"  y2="437" stroke-width="0.6" stroke="#888"/>
+    <!-- zapata (pie) -->
+    <ellipse cx="93"  cy="440" rx="10" ry="4" stroke-width="1.5"/>
+    <!-- collarín superior pata -->
+    <rect x="86" y="356" width="26" height="7" rx="2" stroke-width="1.5"/>
+
+    <!-- PATA DELANTERA DERECHA -->
+    <line x1="238" y1="360" x2="232" y2="440" stroke-width="1.8"/>
+    <line x1="256" y1="360" x2="250" y2="440" stroke-width="1.8"/>
+    <line x1="241" y1="362" x2="235" y2="437" stroke-width="0.6" stroke="#888"/>
+    <line x1="244" y1="362" x2="238" y2="437" stroke-width="0.6" stroke="#888"/>
+    <line x1="247" y1="362" x2="241" y2="437" stroke-width="0.6" stroke="#888"/>
+    <line x1="250" y1="362" x2="244" y2="437" stroke-width="0.6" stroke="#888"/>
+    <line x1="253" y1="362" x2="247" y2="437" stroke-width="0.6" stroke="#888"/>
+    <ellipse cx="241" cy="440" rx="10" ry="4" stroke-width="1.5"/>
+    <rect x="234" y="356" width="26" height="7" rx="2" stroke-width="1.5"/>
+
+    <!-- PATAS TRASERAS (más simples, en perspectiva) -->
+    <line x1="110" y1="355" x2="105" y2="435" stroke-width="1.2" stroke="#aaa"/>
+    <line x1="236" y1="355" x2="231" y2="435" stroke-width="1.2" stroke="#aaa"/>
+
+    <!-- TRAVESAÑO INFERIOR (chambrán) -->
+    <line x1="102" y1="410" x2="232" y2="410" stroke-width="1.5"/>
+    <line x1="102" y1="415" x2="232" y2="415" stroke-width="0.7" stroke="#aaa"/>
+
+    <!-- ASIENTO -->
+    <rect x="80" y="330" width="185" height="30" rx="3" stroke-width="2"/>
+    <!-- tapizado asiento: líneas de tela -->
+    <line x1="85"  y1="335" x2="260" y2="335" stroke-width="0.6" stroke="#bbb"/>
+    <line x1="85"  y1="342" x2="260" y2="342" stroke-width="0.6" stroke="#bbb"/>
+    <line x1="85"  y1="349" x2="260" y2="349" stroke-width="0.6" stroke="#bbb"/>
+    <!-- reborde asiento -->
+    <rect x="78" y="328" width="189" height="8" rx="2" stroke-width="1.5"/>
+
+    <!-- BRAZOS -->
+    <!-- brazo izquierdo -->
+    <path d="M 100 230 Q 88 280 88 328" stroke-width="1.8"/>
+    <path d="M 118 230 Q 106 280 106 328" stroke-width="1.5"/>
+    <!-- relleno tapizado brazo izq -->
+    <line x1="103" y1="235" x2="91"  y2="310" stroke-width="0.6" stroke="#bbb"/>
+    <line x1="108" y1="235" x2="96"  y2="310" stroke-width="0.6" stroke="#bbb"/>
+    <line x1="113" y1="235" x2="101" y2="310" stroke-width="0.6" stroke="#bbb"/>
+    <!-- apoyabrazos izq: voluta -->
+    <path d="M 86 228 Q 78 220 86 212 Q 94 205 102 212 Q 110 220 104 228 Q 98 235 90 230" stroke-width="1.8"/>
+
+    <!-- brazo derecho -->
+    <path d="M 228 230 Q 240 280 240 328" stroke-width="1.8"/>
+    <path d="M 246 230 Q 258 280 258 328" stroke-width="1.5"/>
+    <line x1="231" y1="235" x2="243" y2="310" stroke-width="0.6" stroke="#bbb"/>
+    <line x1="236" y1="235" x2="248" y2="310" stroke-width="0.6" stroke="#bbb"/>
+    <line x1="241" y1="235" x2="253" y2="310" stroke-width="0.6" stroke="#bbb"/>
+    <!-- apoyabrazos der: voluta -->
+    <path d="M 258 228 Q 266 220 258 212 Q 250 205 242 212 Q 234 220 240 228 Q 246 235 254 230" stroke-width="1.8"/>
+
+    <!-- RESPALDO -->
+    <!-- montantes del respaldo -->
+    <line x1="100" y1="230" x2="106" y2="145" stroke-width="2"/>
+    <line x1="118" y1="230" x2="122" y2="145" stroke-width="1.5"/>
+    <line x1="228" y1="230" x2="224" y2="145" stroke-width="2"/>
+    <line x1="246" y1="230" x2="242" y2="145" stroke-width="1.5"/>
+
+    <!-- Travesaño superior respaldo (arco) -->
+    <path d="M 106 145 Q 170 110 224 145" stroke-width="2"/>
+    <path d="M 122 145 Q 170 118 242 145" stroke-width="1.5"/>
+
+    <!-- Travesaño inferior respaldo -->
+    <line x1="106" y1="230" x2="224" y2="230" stroke-width="1.8"/>
+    <line x1="122" y1="230" x2="242" y2="230" stroke-width="1.2" stroke="#aaa"/>
+
+    <!-- Relleno tapizado respaldo -->
+    <path d="M 122 228 Q 170 195 242 228 L 242 150 Q 170 120 122 150 Z" stroke-width="0.8" stroke="#ccc"/>
+    <!-- líneas tapiz respaldo -->
+    <line x1="140" y1="155" x2="135" y2="222" stroke-width="0.6" stroke="#ccc"/>
+    <line x1="158" y1="148" x2="155" y2="222" stroke-width="0.6" stroke="#ccc"/>
+    <line x1="170" y1="145" x2="170" y2="222" stroke-width="0.6" stroke="#ccc"/>
+    <line x1="182" y1="148" x2="185" y2="222" stroke-width="0.6" stroke="#ccc"/>
+    <line x1="200" y1="155" x2="205" y2="222" stroke-width="0.6" stroke="#ccc"/>
+    <line x1="122" y1="175" x2="242" y2="175" stroke-width="0.6" stroke="#ccc"/>
+    <line x1="122" y1="195" x2="242" y2="195" stroke-width="0.6" stroke="#ccc"/>
+    <line x1="122" y1="210" x2="242" y2="210" stroke-width="0.6" stroke="#ccc"/>
+
+    <!-- MEDALLÓN central (oval clásico, motivo Louis XVI) -->
+    <ellipse cx="170" cy="185" rx="28" ry="35" stroke-width="1.8"/>
+    <!-- lazo en el centro del medallón -->
+    <path d="M 162 172 Q 170 165 178 172 Q 170 180 162 172" stroke-width="1.2"/>
+    <!-- guirnalda simple -->
+    <path d="M 148 185 Q 170 178 192 185" stroke-width="1" stroke-dasharray="2,2"/>
+
+    <!-- Talla en cima del respaldo (flor/roseta) -->
+    <circle cx="170" cy="130" r="10" stroke-width="1.5"/>
+    <line x1="170" y1="120" x2="170" y2="108" stroke-width="1.2"/>
+    <line x1="160" y1="125" x2="150" y2="115" stroke-width="1.2"/>
+    <line x1="180" y1="125" x2="190" y2="115" stroke-width="1.2"/>
+    <circle cx="170" cy="130" r="5" stroke-width="1"/>
+
+    <!-- LÍNEA DE SUELO -->
+    <line x1="60" y1="445" x2="320" y2="445" stroke-width="0.8" stroke-dasharray="5,4" stroke="#bbb"/>
+
+    <!-- ======================================= -->
+    <!-- DETALLE PATA (ampliado)                 -->
+    <!-- ======================================= -->
+    <text x="390" y="70" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555" font-style="italic" stroke="none">— detalle pata (ampliado) —</text>
+
+    <!-- Pata grande para ver el detalle -->
+    <line x1="360" y1="95"  x2="348" y2="220" stroke-width="2"/>
+    <line x1="390" y1="95"  x2="378" y2="220" stroke-width="2"/>
+    <!-- estrías -->
+    <line x1="363" y1="98"  x2="351" y2="218" stroke-width="0.8" stroke="#888"/>
+    <line x1="367" y1="98"  x2="355" y2="218" stroke-width="0.8" stroke="#888"/>
+    <line x1="371" y1="98"  x2="359" y2="218" stroke-width="0.8" stroke="#888"/>
+    <line x1="375" y1="98"  x2="363" y2="218" stroke-width="0.8" stroke="#888"/>
+    <line x1="379" y1="98"  x2="367" y2="218" stroke-width="0.8" stroke="#888"/>
+    <line x1="383" y1="98"  x2="371" y2="218" stroke-width="0.8" stroke="#888"/>
+    <line x1="387" y1="98"  x2="375" y2="218" stroke-width="0.8" stroke="#888"/>
+    <!-- collarín -->
+    <rect x="345" y="88" width="48" height="10" rx="3" stroke-width="1.8"/>
+    <!-- zapata -->
+    <ellipse cx="363" cy="222" rx="18" ry="6" stroke-width="1.8"/>
+
+    <!-- Flecha y nota: estrías -->
+    <line x1="400" y1="155" x2="385" y2="155" stroke-width="0.8" stroke="#888"/>
+    <text x="403" y="159" font-family="Georgia, serif" font-size="9" fill="#666" stroke="none">estrías verticales</text>
+    <!-- Flecha collarín -->
+    <line x1="400" y1="93"  x2="393" y2="93"  stroke-width="0.8" stroke="#888"/>
+    <text x="403" y="97"  font-family="Georgia, serif" font-size="9" fill="#666" stroke="none">collarín</text>
+    <!-- Flecha zapata -->
+    <line x1="400" y1="222" x2="382" y2="222" stroke-width="0.8" stroke="#888"/>
+    <text x="403" y="226" font-family="Georgia, serif" font-size="9" fill="#666" stroke="none">zapata</text>
+
+    <!-- ======================================= -->
+    <!-- DETALLE MEDALLÓN (ampliado)             -->
+    <!-- ======================================= -->
+    <text x="390" y="280" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555" font-style="italic" stroke="none">— detalle medallón —</text>
+
+    <ellipse cx="390" cy="370" rx="50" ry="65" stroke-width="2"/>
+    <!-- lazo superior -->
+    <path d="M 372 318 Q 390 305 408 318 Q 390 330 372 318" stroke-width="1.5"/>
+    <!-- guirnalda -->
+    <path d="M 345 370 Q 390 355 435 370" stroke-width="1" stroke-dasharray="3,3"/>
+    <!-- motivo floral centro -->
+    <circle cx="390" cy="370" rx="12" ry="12" stroke-width="1.2"/>
+    <line x1="390" y1="355" x2="390" y2="345" stroke-width="1"/>
+    <line x1="390" y1="385" x2="390" y2="395" stroke-width="1"/>
+    <line x1="375" y1="370" x2="365" y2="370" stroke-width="1"/>
+    <line x1="405" y1="370" x2="415" y2="370" stroke-width="1"/>
+
+    <!-- flecha medallón -->
+    <line x1="450" y1="320" x2="432" y2="325" stroke-width="0.8" stroke="#888"/>
+    <text x="453" y="324" font-family="Georgia, serif" font-size="9" fill="#666" stroke="none">lazo</text>
+    <line x1="450" y1="370" x2="442" y2="370" stroke-width="0.8" stroke="#888"/>
+    <text x="453" y="374" font-family="Georgia, serif" font-size="9" fill="#666" stroke="none">medallón oval</text>
+    <line x1="450" y1="395" x2="436" y2="385" stroke-width="0.8" stroke="#888"/>
+    <text x="453" y="399" font-family="Georgia, serif" font-size="9" fill="#666" stroke="none">guirnalda</text>
+
+    <!-- ======================================= -->
+    <!-- COTAS VISTA FRONTAL                     -->
+    <!-- ======================================= -->
+    <!-- Ancho -->
+    <line x1="78"  y1="465" x2="262" y2="465" stroke-width="1" stroke="#666"/>
+    <line x1="78"  y1="460" x2="78"  y2="470" stroke-width="1" stroke="#666"/>
+    <line x1="262" y1="460" x2="262" y2="470" stroke-width="1" stroke="#666"/>
+    <text x="170" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#555" stroke="none">64 cm</text>
+
+    <!-- Alto -->
+    <line x1="38" y1="110" x2="38" y2="445" stroke-width="1" stroke="#666"/>
+    <line x1="33" y1="110" x2="43" y2="110" stroke-width="1" stroke="#666"/>
+    <line x1="33" y1="445" x2="43" y2="445" stroke-width="1" stroke="#666"/>
+    <text x="25" y="282" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#555" stroke="none" transform="rotate(-90,25,282)">95 cm</text>
+
+    <!-- Alto asiento -->
+    <line x1="52" y1="330" x2="52" y2="445" stroke-width="0.8" stroke="#aaa" stroke-dasharray="3,3"/>
+    <line x1="47" y1="330" x2="57" y2="330" stroke-width="0.8" stroke="#aaa"/>
+    <line x1="47" y1="445" x2="57" y2="445" stroke-width="0.8" stroke="#aaa"/>
+    <text x="38" y="390" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#999" stroke="none" transform="rotate(-90,38,390)">44 cm</text>
+
+  </g>
+
+  <!-- ======================================= -->
+  <!-- NOTAS A MANO (fuera del grupo)          -->
+  <!-- ======================================= -->
+  <text x="340" y="462" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#aaa" font-style="italic">Características: patas cónicas estriadas · medallón oval · lazo y guirnalda · tapizado · madera lacada o dorada</text>
+  <text x="340" y="476" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#aaa" font-style="italic">Movimiento: Neoclásico — Louis XVI · Francia · 1760–1789 · influencia greco-romana</text>
+
+  <text x="670" y="496" text-anchor="end" font-family="Georgia, serif" font-size="9" fill="#ccc" font-style="italic">referencia para dibujo a mano · M.D.G. 2025</text>
+
+</svg>

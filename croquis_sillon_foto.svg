@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 580" width="700" height="580">
+
+  <rect width="700" height="580" fill="#FEFDF8"/>
+
+  <text x="350" y="26" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#222">SILLÓN SAVONAROLA — Renacimiento italiano (S. XV–XVI)</text>
+  <text x="350" y="44" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#777" font-style="italic">referencia para copiar a mano · basado en foto original</text>
+
+  <g stroke="#1a1a1a" fill="none" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- ======================================= -->
+    <!-- VISTA FRONTAL                           -->
+    <!-- ======================================= -->
+    <text x="195" y="68" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555" font-style="italic" stroke="none">— vista frontal —</text>
+
+    <!-- PATAS EN X IZQUIERDA -->
+    <!-- curva frontal: de arriba-izq baja curvándose hacia afuera-abajo -->
+    <path d="M 95 335 Q 85 385 72 445" stroke-width="3"/>
+    <path d="M 112 335 Q 102 385 89 445" stroke-width="2"/>
+    <!-- curva trasera: de arriba-der baja curvándose hacia adentro-abajo -->
+    <path d="M 95 335 Q 105 385 118 445" stroke-width="3"/>
+    <path d="M 112 335 Q 122 385 135 445" stroke-width="2"/>
+    <!-- nudo X izq -->
+    <circle cx="103" cy="383" r="8" stroke-width="2"/>
+    <circle cx="103" cy="383" r="3" stroke-width="1.5"/>
+    <!-- base izq (gallones) -->
+    <rect x="62" y="443" width="80" height="14" rx="2" stroke-width="2"/>
+    <path d="M 64 443 Q 70 436 76 443 Q 82 436 88 443 Q 94 436 100 443 Q 106 436 112 443 Q 118 436 124 443 Q 130 436 136 443 Q 140 436 142 443" stroke-width="1.2"/>
+
+    <!-- PATAS EN X DERECHA -->
+    <path d="M 268 335 Q 258 385 245 445" stroke-width="3"/>
+    <path d="M 285 335 Q 275 385 262 445" stroke-width="2"/>
+    <path d="M 268 335 Q 278 385 291 445" stroke-width="3"/>
+    <path d="M 285 335 Q 295 385 308 445" stroke-width="2"/>
+    <!-- nudo X der -->
+    <circle cx="276" cy="383" r="8" stroke-width="2"/>
+    <circle cx="276" cy="383" r="3" stroke-width="1.5"/>
+    <!-- base der (gallones) -->
+    <rect x="235" y="443" width="80" height="14" rx="2" stroke-width="2"/>
+    <path d="M 237 443 Q 243 436 249 443 Q 255 436 261 443 Q 267 436 273 443 Q 279 436 285 443 Q 291 436 297 443 Q 303 436 309 443 Q 313 436 315 443" stroke-width="1.2"/>
+
+    <!-- ASIENTO (cuero tenso entre las X) -->
+    <path d="M 70 335 Q 188 342 310 335" stroke-width="2.5"/>
+    <path d="M 70 335 Q 188 330 310 335" stroke-width="1"/>
+    <!-- textura cuero -->
+    <line x1="88"  y1="334" x2="88"  y2="339" stroke-width="0.8" stroke="#888"/>
+    <line x1="108" y1="333" x2="108" y2="339" stroke-width="0.8" stroke="#888"/>
+    <line x1="128" y1="333" x2="128" y2="339" stroke-width="0.8" stroke="#888"/>
+    <line x1="148" y1="332" x2="148" y2="339" stroke-width="0.8" stroke="#888"/>
+    <line x1="168" y1="332" x2="168" y2="339" stroke-width="0.8" stroke="#888"/>
+    <line x1="188" y1="332" x2="188" y2="339" stroke-width="0.8" stroke="#888"/>
+    <line x1="208" y1="332" x2="208" y2="339" stroke-width="0.8" stroke="#888"/>
+    <line x1="228" y1="333" x2="228" y2="339" stroke-width="0.8" stroke="#888"/>
+    <line x1="248" y1="333" x2="248" y2="339" stroke-width="0.8" stroke="#888"/>
+    <line x1="268" y1="334" x2="268" y2="339" stroke-width="0.8" stroke="#888"/>
+    <line x1="288" y1="334" x2="288" y2="339" stroke-width="0.8" stroke="#888"/>
+
+    <!-- BRAZOS CURVOS EN VOLUTA -->
+    <!-- brazo izquierdo — curva que nace del montante y se enrosca -->
+    <path d="M 90 335 Q 72 310 66 285 Q 60 258 74 242 Q 90 228 108 238 Q 122 248 114 264 Q 106 278 92 272 Q 80 266 82 254" stroke-width="2.2"/>
+    <!-- brazo derecho -->
+    <path d="M 290 335 Q 308 310 314 285 Q 320 258 306 242 Q 290 228 272 238 Q 258 248 266 264 Q 274 278 288 272 Q 300 266 298 254" stroke-width="2.2"/>
+
+    <!-- MONTANTES DEL RESPALDO (postes verticales) -->
+    <!-- montante izq — arranca desde el asiento y sube -->
+    <rect x="90"  y="78" width="20" height="260" rx="4" stroke-width="2.2"/>
+    <!-- montante der -->
+    <rect x="270" y="78" width="20" height="260" rx="4" stroke-width="2.2"/>
+    <!-- estrías montantes -->
+    <line x1="96"  y1="84"  x2="96"  y2="332" stroke-width="0.7" stroke="#aaa"/>
+    <line x1="102" y1="84"  x2="102" y2="332" stroke-width="0.7" stroke="#aaa"/>
+    <line x1="276" y1="84"  x2="276" y2="332" stroke-width="0.7" stroke="#aaa"/>
+    <line x1="282" y1="84"  x2="282" y2="332" stroke-width="0.7" stroke="#aaa"/>
+
+    <!-- PIÑAS TALLADAS en la cima de los montantes -->
+    <!-- piña izq -->
+    <ellipse cx="100" cy="68" rx="13" ry="12" stroke-width="2"/>
+    <!-- escamas piña -->
+    <path d="M 89 70 Q 100 60 111 70" stroke-width="1"/>
+    <path d="M 87 74 Q 100 64 113 74" stroke-width="1"/>
+    <path d="M 88 79 Q 100 70 112 79" stroke-width="1"/>
+    <!-- tallo piña -->
+    <line x1="100" y1="56" x2="100" y2="46" stroke-width="1.8"/>
+    <ellipse cx="100" cy="44" rx="6" ry="5" stroke-width="1.5"/>
+    <line x1="96" y1="40" x2="100" y2="34" stroke-width="1.2"/>
+    <line x1="104" y1="40" x2="100" y2="34" stroke-width="1.2"/>
+
+    <!-- piña der -->
+    <ellipse cx="280" cy="68" rx="13" ry="12" stroke-width="2"/>
+    <path d="M 269 70 Q 280 60 291 70" stroke-width="1"/>
+    <path d="M 267 74 Q 280 64 293 74" stroke-width="1"/>
+    <path d="M 268 79 Q 280 70 292 79" stroke-width="1"/>
+    <line x1="280" y1="56" x2="280" y2="46" stroke-width="1.8"/>
+    <ellipse cx="280" cy="44" rx="6" ry="5" stroke-width="1.5"/>
+    <line x1="276" y1="40" x2="280" y2="34" stroke-width="1.2"/>
+    <line x1="284" y1="40" x2="280" y2="34" stroke-width="1.2"/>
+
+    <!-- PANEL DEL RESPALDO TALLADO -->
+    <!-- marco exterior -->
+    <rect x="110" y="98" width="160" height="80" rx="3" stroke-width="2.2"/>
+    <!-- marco interior -->
+    <rect x="117" y="105" width="146" height="66" rx="2" stroke-width="1"/>
+
+    <!-- TALLA CENTRAL: hojas de acanto + figura -->
+    <!-- figura central (medallón con busto) -->
+    <ellipse cx="190" cy="140" rx="24" ry="28" stroke-width="1.8"/>
+    <!-- cabeza -->
+    <circle cx="190" cy="124" r="8" stroke-width="1.2"/>
+    <!-- cuerpo -->
+    <path d="M 183 132 Q 190 128 197 132 L 200 155 Q 190 160 180 155 Z" stroke-width="1"/>
+    <!-- cuello -->
+    <line x1="190" y1="132" x2="190" y2="136" stroke-width="1.2"/>
+
+    <!-- hojas de acanto izquierda -->
+    <path d="M 122 130 Q 128 118 138 124 Q 132 136 122 130" stroke-width="1.2"/>
+    <path d="M 120 142 Q 124 128 136 132 Q 132 148 120 142" stroke-width="1.2"/>
+    <path d="M 122 154 Q 130 142 140 148 Q 136 162 122 154" stroke-width="1.2"/>
+    <path d="M 125 118 Q 134 108 142 114" stroke-width="1"/>
+
+    <!-- hojas de acanto derecha -->
+    <path d="M 258 130 Q 252 118 242 124 Q 248 136 258 130" stroke-width="1.2"/>
+    <path d="M 260 142 Q 256 128 244 132 Q 248 148 260 142" stroke-width="1.2"/>
+    <path d="M 258 154 Q 250 142 240 148 Q 244 162 258 154" stroke-width="1.2"/>
+    <path d="M 255 118 Q 246 108 238 114" stroke-width="1"/>
+
+    <!-- CORNISA / GALLONES sobre el panel (remate del respaldo) -->
+    <rect x="88" y="88" width="204" height="14" rx="2" stroke-width="1.8"/>
+    <path d="M 90 88 Q 96 80 102 88 Q 108 80 114 88 Q 120 80 126 88 Q 132 80 138 88 Q 144 80 150 88 Q 156 80 162 88 Q 168 80 174 88 Q 180 80 186 88 Q 192 80 198 88 Q 204 80 210 88 Q 216 80 222 88 Q 228 80 234 88 Q 240 80 246 88 Q 252 80 258 88 Q 264 80 270 88 Q 276 80 282 88 Q 286 80 290 88" stroke-width="1.5"/>
+
+    <!-- TRAVESAÑO RESPALDO inferior -->
+    <line x1="110" y1="178" x2="270" y2="178" stroke-width="2"/>
+    <line x1="110" y1="184" x2="270" y2="184" stroke-width="0.8" stroke="#aaa"/>
+
+    <!-- LÍNEA DE SUELO -->
+    <line x1="42" y1="458" x2="360" y2="458" stroke-width="0.8" stroke-dasharray="5,4" stroke="#bbb"/>
+
+    <!-- ======================================= -->
+    <!-- VISTA LATERAL                           -->
+    <!-- ======================================= -->
+    <text x="540" y="68" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555" font-style="italic" stroke="none">— vista lateral —</text>
+
+    <!-- X lateral -->
+    <path d="M 490 335 Q 480 385 468 445" stroke-width="3"/>
+    <path d="M 505 335 Q 495 385 483 445" stroke-width="2"/>
+    <path d="M 490 335 Q 500 385 512 445" stroke-width="3"/>
+    <path d="M 505 335 Q 515 385 527 445" stroke-width="2"/>
+    <!-- nudo X lateral -->
+    <circle cx="497" cy="383" r="8" stroke-width="2"/>
+    <circle cx="497" cy="383" r="3" stroke-width="1.5"/>
+    <!-- base lateral -->
+    <rect x="458" y="443" width="78" height="14" rx="2" stroke-width="2"/>
+    <path d="M 460 443 Q 466 436 472 443 Q 478 436 484 443 Q 490 436 496 443 Q 502 436 508 443 Q 514 436 520 443 Q 526 436 532 443 Q 536 436 536 443" stroke-width="1.2"/>
+
+    <!-- asiento lateral -->
+    <line x1="467" y1="335" x2="527" y2="335" stroke-width="2.5"/>
+
+    <!-- brazo lateral -->
+    <path d="M 490 335 Q 476 308 470 282 Q 464 256 478 240 Q 494 226 508 238 Q 518 250 510 264 Q 502 276 490 270" stroke-width="2.2"/>
+
+    <!-- montante lateral -->
+    <rect x="490" y="78" width="18" height="260" rx="4" stroke-width="2.2"/>
+    <!-- piña lateral -->
+    <ellipse cx="499" cy="68" rx="11" ry="10" stroke-width="2"/>
+    <path d="M 490 70 Q 499 62 508 70" stroke-width="1"/>
+    <path d="M 489 75 Q 499 67 509 75" stroke-width="1"/>
+    <line x1="499" y1="58" x2="499" y2="49" stroke-width="1.8"/>
+    <ellipse cx="499" cy="47" rx="5" ry="4" stroke-width="1.5"/>
+
+    <!-- panel respaldo lateral (se ve el grosor) -->
+    <rect x="508" y="98" width="12" height="80" rx="2" stroke-width="1.5"/>
+    <!-- cornisa lateral -->
+    <rect x="488" y="88" width="32" height="12" rx="2" stroke-width="1.5"/>
+
+    <!-- línea suelo lateral -->
+    <line x1="440" y1="458" x2="570" y2="458" stroke-width="0.8" stroke-dasharray="5,4" stroke="#bbb"/>
+
+    <!-- ======================================= -->
+    <!-- NOTAS                                   -->
+    <!-- ======================================= -->
+    <line x1="352" y1="42"  x2="114" y2="68"  stroke-width="0.7" stroke="#ccc" stroke-dasharray="3,3"/>
+    <text x="355" y="38"  font-family="Georgia, serif" font-size="9" fill="#666" stroke="none">piña tallada</text>
+    <text x="355" y="50"  font-family="Georgia, serif" font-size="9" fill="#666" stroke="none">(pináculo)</text>
+
+    <line x1="352" y1="84"  x2="292" y2="88"  stroke-width="0.7" stroke="#ccc" stroke-dasharray="3,3"/>
+    <text x="355" y="88"  font-family="Georgia, serif" font-size="9" fill="#666" stroke="none">gallones</text>
+
+    <line x1="352" y1="138" x2="270" y2="138" stroke-width="0.7" stroke="#ccc" stroke-dasharray="3,3"/>
+    <text x="355" y="135" font-family="Georgia, serif" font-size="9" fill="#666" stroke="none">panel tallado:</text>
+    <text x="355" y="147" font-family="Georgia, serif" font-size="9" fill="#666" stroke="none">hojas de acanto + figura</text>
+
+    <line x1="352" y1="252" x2="300" y2="260" stroke-width="0.7" stroke="#ccc" stroke-dasharray="3,3"/>
+    <text x="355" y="256" font-family="Georgia, serif" font-size="9" fill="#666" stroke="none">brazo en voluta</text>
+
+    <line x1="352" y1="336" x2="312" y2="336" stroke-width="0.7" stroke="#ccc" stroke-dasharray="3,3"/>
+    <text x="355" y="340" font-family="Georgia, serif" font-size="9" fill="#666" stroke="none">asiento en cuero</text>
+
+    <line x1="352" y1="383" x2="285" y2="383" stroke-width="0.7" stroke="#ccc" stroke-dasharray="3,3"/>
+    <text x="355" y="379" font-family="Georgia, serif" font-size="9" fill="#666" stroke="none">patas en X</text>
+    <text x="355" y="391" font-family="Georgia, serif" font-size="9" fill="#666" stroke="none">(sella curulis romana)</text>
+
+    <line x1="352" y1="450" x2="318" y2="450" stroke-width="0.7" stroke="#ccc" stroke-dasharray="3,3"/>
+    <text x="355" y="454" font-family="Georgia, serif" font-size="9" fill="#666" stroke="none">base con gallones</text>
+
+    <!-- ======================================= -->
+    <!-- COTAS                                   -->
+    <!-- ======================================= -->
+    <!-- Ancho -->
+    <line x1="70"  y1="477" x2="310" y2="477" stroke-width="1" stroke="#666"/>
+    <line x1="70"  y1="472" x2="70"  y2="482" stroke-width="1" stroke="#666"/>
+    <line x1="310" y1="472" x2="310" y2="482" stroke-width="1" stroke="#666"/>
+    <text x="190" y="494" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#555" stroke="none">65 cm</text>
+
+    <!-- Alto total -->
+    <line x1="32" y1="34" x2="32" y2="458" stroke-width="1" stroke="#666"/>
+    <line x1="27" y1="34"  x2="37" y2="34"  stroke-width="1" stroke="#666"/>
+    <line x1="27" y1="458" x2="37" y2="458" stroke-width="1" stroke="#666"/>
+    <text x="18" y="250" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#555" stroke="none" transform="rotate(-90,18,250)">125 cm</text>
+
+    <!-- Alto asiento -->
+    <line x1="50" y1="335" x2="50" y2="458" stroke-width="0.8" stroke="#aaa" stroke-dasharray="3,3"/>
+    <line x1="45" y1="335" x2="55" y2="335" stroke-width="0.8" stroke="#aaa"/>
+    <line x1="45" y1="458" x2="55" y2="458" stroke-width="0.8" stroke="#aaa"/>
+    <text x="38" y="400" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#999" stroke="none" transform="rotate(-90,38,400)">45 cm</text>
+
+  </g>
+
+  <text x="350" y="524" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#aaa" font-style="italic">Características: patas en X (curul) · piñas talladas · panel con hojas de acanto y figura · brazos en voluta · gallones · madera de nogal</text>
+  <text x="350" y="538" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#aaa" font-style="italic">Movimiento: Renacimiento italiano · S. XV–XVI · recuperación de la sella curulis romana · símbolo de autoridad eclesiástica y civil</text>
+  <text x="680" y="560" text-anchor="end" font-family="Georgia, serif" font-size="9" fill="#ccc" font-style="italic">referencia para dibujo a mano · M.D.G. 2025</text>
+
+</svg>

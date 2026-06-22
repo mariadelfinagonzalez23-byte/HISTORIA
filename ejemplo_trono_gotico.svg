@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 540" width="680" height="540">
+
+  <rect width="680" height="540" fill="#FEFDF8"/>
+
+  <!-- TÍTULO -->
+  <text x="340" y="26" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#222">SILLA CATEDRALICIA — Gótico (S. XIII–XV)</text>
+  <text x="340" y="44" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#777" font-style="italic">ejemplo de referencia para copiar a mano</text>
+
+  <g stroke="#1a1a1a" fill="none" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- ======================================= -->
+    <!-- VISTA FRONTAL                           -->
+    <!-- ======================================= -->
+    <text x="190" y="68" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555" font-style="italic" stroke="none">— vista frontal —</text>
+
+    <!-- PATAS DELANTERAS — gruesas, cuadradas -->
+    <rect x="88"  y="310" width="28" height="130" rx="2" stroke-width="2"/>
+    <rect x="258" y="310" width="28" height="130" rx="2" stroke-width="2"/>
+    <!-- estrías simples en patas -->
+    <line x1="96"  y1="315" x2="96"  y2="438" stroke-width="0.7" stroke="#aaa"/>
+    <line x1="104" y1="315" x2="104" y2="438" stroke-width="0.7" stroke="#aaa"/>
+    <line x1="266" y1="315" x2="266" y2="438" stroke-width="0.7" stroke="#aaa"/>
+    <line x1="274" y1="315" x2="274" y2="438" stroke-width="0.7" stroke="#aaa"/>
+
+    <!-- PATAS TRASERAS (más altas — suben al respaldo) -->
+    <rect x="106" y="75"  width="22" height="365" rx="2" stroke-width="2"/>
+    <rect x="246" y="75"  width="22" height="365" rx="2" stroke-width="2"/>
+    <!-- estrías -->
+    <line x1="112" y1="80"  x2="112" y2="438" stroke-width="0.7" stroke="#aaa"/>
+    <line x1="120" y1="80"  x2="120" y2="438" stroke-width="0.7" stroke="#aaa"/>
+    <line x1="252" y1="80"  x2="252" y2="438" stroke-width="0.7" stroke="#aaa"/>
+    <line x1="260" y1="80"  x2="260" y2="438" stroke-width="0.7" stroke="#aaa"/>
+
+    <!-- TRAVESAÑO INFERIOR (chambrán) -->
+    <rect x="106" y="390" width="162" height="14" rx="2" stroke-width="1.8"/>
+
+    <!-- ASIENTO -->
+    <rect x="84" y="295" width="206" height="22" rx="2" stroke-width="2.2"/>
+    <!-- tapizado asiento -->
+    <line x1="90"  y1="302" x2="284" y2="302" stroke-width="0.6" stroke="#ccc"/>
+    <line x1="90"  y1="309" x2="284" y2="309" stroke-width="0.6" stroke="#ccc"/>
+    <line x1="90"  y1="316" x2="284" y2="316" stroke-width="0.6" stroke="#ccc"/>
+
+    <!-- APOYABRAZOS -->
+    <rect x="84"  y="215" width="28" height="82" rx="3" stroke-width="1.8"/>
+    <rect x="262" y="215" width="28" height="82" rx="3" stroke-width="1.8"/>
+    <!-- tapizado brazos -->
+    <line x1="88"  y1="222" x2="88"  y2="292" stroke-width="0.6" stroke="#ccc"/>
+    <line x1="94"  y1="222" x2="94"  y2="292" stroke-width="0.6" stroke="#ccc"/>
+    <line x1="266" y1="222" x2="266" y2="292" stroke-width="0.6" stroke="#ccc"/>
+    <line x1="272" y1="222" x2="272" y2="292" stroke-width="0.6" stroke="#ccc"/>
+    <!-- terminación brazos: cabeza tallada (bloque) -->
+    <rect x="80"  y="208" width="36" height="12" rx="2" stroke-width="1.8"/>
+    <rect x="258" y="208" width="36" height="12" rx="2" stroke-width="1.8"/>
+
+    <!-- ======================================= -->
+    <!-- RESPALDO ALTO CON ARCO GÓTICO           -->
+    <!-- ======================================= -->
+
+    <!-- Panel respaldo izquierdo (arco apuntado) -->
+    <line x1="128" y1="280" x2="128" y2="155" stroke-width="1.8"/>
+    <line x1="178" y1="280" x2="178" y2="155" stroke-width="1.8"/>
+    <path d="M 128 155 Q 153 112 178 155" stroke-width="1.8"/>
+    <!-- interior arco izq -->
+    <line x1="135" y1="275" x2="135" y2="163" stroke-width="1"/>
+    <line x1="171" y1="275" x2="171" y2="163" stroke-width="1"/>
+    <path d="M 135 163 Q 153 126 171 163" stroke-width="1"/>
+    <!-- trefoil izq -->
+    <circle cx="144" cy="148" r="8" stroke-width="1"/>
+    <circle cx="162" cy="148" r="8" stroke-width="1"/>
+    <circle cx="153" cy="142" r="8" stroke-width="1"/>
+    <!-- líneas verticales tapiz respaldo izq -->
+    <line x1="135" y1="200" x2="135" y2="275" stroke-width="0.6" stroke="#ccc"/>
+    <line x1="143" y1="200" x2="143" y2="275" stroke-width="0.6" stroke="#ccc"/>
+    <line x1="153" y1="200" x2="153" y2="275" stroke-width="0.6" stroke="#ccc"/>
+    <line x1="163" y1="200" x2="163" y2="275" stroke-width="0.6" stroke="#ccc"/>
+    <line x1="171" y1="200" x2="171" y2="275" stroke-width="0.6" stroke="#ccc"/>
+
+    <!-- Panel respaldo derecho (arco apuntado) -->
+    <line x1="196" y1="280" x2="196" y2="155" stroke-width="1.8"/>
+    <line x1="246" y1="280" x2="246" y2="155" stroke-width="1.8"/>
+    <path d="M 196 155 Q 221 112 246 155" stroke-width="1.8"/>
+    <line x1="203" y1="275" x2="203" y2="163" stroke-width="1"/>
+    <line x1="239" y1="275" x2="239" y2="163" stroke-width="1"/>
+    <path d="M 203 163 Q 221 126 239 163" stroke-width="1"/>
+    <!-- trefoil der -->
+    <circle cx="212" cy="148" r="8" stroke-width="1"/>
+    <circle cx="230" cy="148" r="8" stroke-width="1"/>
+    <circle cx="221" cy="142" r="8" stroke-width="1"/>
+    <!-- líneas verticales tapiz respaldo der -->
+    <line x1="203" y1="200" x2="203" y2="275" stroke-width="0.6" stroke="#ccc"/>
+    <line x1="211" y1="200" x2="211" y2="275" stroke-width="0.6" stroke="#ccc"/>
+    <line x1="221" y1="200" x2="221" y2="275" stroke-width="0.6" stroke="#ccc"/>
+    <line x1="231" y1="200" x2="231" y2="275" stroke-width="0.6" stroke="#ccc"/>
+    <line x1="239" y1="200" x2="239" y2="275" stroke-width="0.6" stroke="#ccc"/>
+
+    <!-- Travesaño horizontal respaldo (medio) -->
+    <line x1="128" y1="280" x2="246" y2="280" stroke-width="1.8"/>
+    <line x1="128" y1="287" x2="246" y2="287" stroke-width="0.8" stroke="#aaa"/>
+
+    <!-- CORONAMIENTO — arco mayor que abraza los dos paneles -->
+    <line x1="108" y1="75"  x2="108" y2="118" stroke-width="2"/>
+    <line x1="266" y1="75"  x2="266" y2="118" stroke-width="2"/>
+    <path d="M 108 118 Q 187 56 266 118" stroke-width="2.2"/>
+    <!-- arco interior coronamiento -->
+    <line x1="116" y1="118" x2="116" y2="126" stroke-width="1.2"/>
+    <line x1="258" y1="118" x2="258" y2="126" stroke-width="1.2"/>
+    <path d="M 116 126 Q 187 72 258 126" stroke-width="1.5"/>
+    <!-- óculo central en coronamiento -->
+    <circle cx="187" cy="88"  r="18" stroke-width="1.5"/>
+    <circle cx="187" cy="88"  r="7"  stroke-width="1"/>
+    <!-- rosetón (6 pétalos) -->
+    <circle cx="187" cy="70"  r="7" stroke-width="0.9"/>
+    <circle cx="187" cy="106" r="7" stroke-width="0.9"/>
+    <circle cx="169" cy="79"  r="7" stroke-width="0.9"/>
+    <circle cx="205" cy="79"  r="7" stroke-width="0.9"/>
+    <circle cx="169" cy="97"  r="7" stroke-width="0.9"/>
+    <circle cx="205" cy="97"  r="7" stroke-width="0.9"/>
+
+    <!-- PINÁCULO decorativo en el vértice del coronamiento -->
+    <line x1="184" y1="55" x2="187" y2="35" stroke-width="1.5"/>
+    <line x1="190" y1="55" x2="187" y2="35" stroke-width="1.5"/>
+    <line x1="181" y1="52" x2="193" y2="52" stroke-width="1.2"/>
+    <line x1="183" y1="46" x2="191" y2="46" stroke-width="1.2"/>
+    <line x1="185" y1="40" x2="189" y2="40" stroke-width="1.2"/>
+
+    <!-- LÍNEA DE SUELO -->
+    <line x1="60" y1="442" x2="360" y2="442" stroke-width="0.8" stroke-dasharray="5,4" stroke="#bbb"/>
+
+    <!-- ======================================= -->
+    <!-- NOTAS LATERALES                         -->
+    <!-- ======================================= -->
+    <line x1="372" y1="38"  x2="270" y2="60"  stroke-width="0.7" stroke="#ccc" stroke-dasharray="3,3"/>
+    <text x="375" y="34" font-family="Georgia, serif" font-size="9" fill="#666" stroke="none">pináculo</text>
+
+    <line x1="372" y1="90"  x2="268" y2="90"  stroke-width="0.7" stroke="#ccc" stroke-dasharray="3,3"/>
+    <text x="375" y="94" font-family="Georgia, serif" font-size="9" fill="#666" stroke="none">rosetón / óculo</text>
+
+    <line x1="372" y1="140" x2="268" y2="148" stroke-width="0.7" stroke="#ccc" stroke-dasharray="3,3"/>
+    <text x="375" y="144" font-family="Georgia, serif" font-size="9" fill="#666" stroke="none">trefoil (Trinidad)</text>
+
+    <line x1="372" y1="165" x2="268" y2="158" stroke-width="0.7" stroke="#ccc" stroke-dasharray="3,3"/>
+    <text x="375" y="169" font-family="Georgia, serif" font-size="9" fill="#666" stroke="none">arco apuntado</text>
+
+    <line x1="372" y1="215" x2="292" y2="215" stroke-width="0.7" stroke="#ccc" stroke-dasharray="3,3"/>
+    <text x="375" y="219" font-family="Georgia, serif" font-size="9" fill="#666" stroke="none">apoyabrazos tallado</text>
+
+    <line x1="372" y1="300" x2="292" y2="300" stroke-width="0.7" stroke="#ccc" stroke-dasharray="3,3"/>
+    <text x="375" y="304" font-family="Georgia, serif" font-size="9" fill="#666" stroke="none">asiento tapizado</text>
+
+    <line x1="372" y1="395" x2="272" y2="395" stroke-width="0.7" stroke="#ccc" stroke-dasharray="3,3"/>
+    <text x="375" y="399" font-family="Georgia, serif" font-size="9" fill="#666" stroke="none">chambrán (travesaño)</text>
+
+    <line x1="372" y1="430" x2="292" y2="425" stroke-width="0.7" stroke="#ccc" stroke-dasharray="3,3"/>
+    <text x="375" y="434" font-family="Georgia, serif" font-size="9" fill="#666" stroke="none">pata cuadrada — roble</text>
+
+    <!-- ======================================= -->
+    <!-- COTAS                                   -->
+    <!-- ======================================= -->
+    <!-- Ancho -->
+    <line x1="84"  y1="462" x2="290" y2="462" stroke-width="1" stroke="#666"/>
+    <line x1="84"  y1="457" x2="84"  y2="467" stroke-width="1" stroke="#666"/>
+    <line x1="290" y1="457" x2="290" y2="467" stroke-width="1" stroke="#666"/>
+    <text x="187" y="478" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#555" stroke="none">70 cm</text>
+
+    <!-- Alto total -->
+    <line x1="38" y1="35" x2="38" y2="442" stroke-width="1" stroke="#666"/>
+    <line x1="33" y1="35"  x2="43" y2="35"  stroke-width="1" stroke="#666"/>
+    <line x1="33" y1="442" x2="43" y2="442" stroke-width="1" stroke="#666"/>
+    <text x="18" y="240" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#555" stroke="none" transform="rotate(-90,18,240)">155 cm</text>
+
+    <!-- Alto asiento -->
+    <line x1="54" y1="295" x2="54" y2="442" stroke-width="0.8" stroke="#aaa" stroke-dasharray="3,3"/>
+    <line x1="49" y1="295" x2="59" y2="295" stroke-width="0.8" stroke="#aaa"/>
+    <line x1="49" y1="442" x2="59" y2="442" stroke-width="0.8" stroke="#aaa"/>
+    <text x="40" y="372" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#999" stroke="none" transform="rotate(-90,40,372)">48 cm</text>
+
+  </g>
+
+  <!-- NOTAS FINALES -->
+  <text x="340" y="498" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#aaa" font-style="italic">Características: respaldo alto · arco apuntado · rosetón · trefoil · pináculo · patas cuadradas de roble · chambrán</text>
+  <text x="340" y="512" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#aaa" font-style="italic">Movimiento: Gótico · S. XIII–XV · inspirado en la arquitectura catedralicia · símbolo de autoridad religiosa y política</text>
+
+  <text x="670" y="530" text-anchor="end" font-family="Georgia, serif" font-size="9" fill="#ccc" font-style="italic">referencia para dibujo a mano · M.D.G. 2025</text>
+
+</svg>
